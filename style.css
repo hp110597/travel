@@ -8,3 +8,10 @@ body{
     background-color: red;
     padding: 100px;
 }
+body{
+    background-image: none;
+    padding: 50px;
+}
+body{
+    background-color: aquamarine;
+}
